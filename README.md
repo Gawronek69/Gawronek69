@@ -4,6 +4,8 @@
 ###### ( And I had to make this README for my assignment )
 My site https://gawronek69.github.io
 <!--
+https://github.com/Gawronek69/FedML
+https://arxiv.org/pdf/2007.13518v4.pdf
 **Gawronek69/Gawronek69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
